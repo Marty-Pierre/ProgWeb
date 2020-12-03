@@ -14,6 +14,7 @@
 					echo "<li>".$elem[ingredients]."</li>";
 					echo "<li>".$elem[preparation]."</li><br>";
 					echo "</ul></li>";
+					echo "lol";
 				}
 			echo"</ol>";
 		}
