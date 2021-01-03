@@ -1559,7 +1559,7 @@
     'super-categorie' => 
     array (
       0 => 'Aliment',
-    ),
+),
   ),
   'Agrume' => 
   array (
